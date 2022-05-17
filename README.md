@@ -44,7 +44,7 @@ Defaults:
 ### Radius
 |  |  |
 |--|--|
-|address|server address in host:port form|
+|address|server listen address in host:port form|
 |insecure|if set to true Radius server will accept client connections without secret|
 |static_secret|if not empty it will be used for all unknown clients|
 |secrets|its a map with *client address* and *secret* pairs<br>client address can be in CIDR format, so subnets can be defined  easily|
