@@ -20,8 +20,7 @@ This project is NOT tested widely, use it on your own risk. Any comments, bug re
 |-c filename, -config filename|load configuration file|
 |-d, -default|print default configuration|
 |-s command, -service command|windows service commands:<br>*install*, *uninstall*, *start*, *stop*, *restart*, *status*|
-|--cpuprofile filename|write cpu profile to file|
-|--memprofile filename|write memory profile to file
+
 
 ## Configuration file
 Defaults:
